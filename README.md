@@ -10,4 +10,5 @@ Website: https://www.eseagency.ch/
 
 Screenshot:
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](https://github.com/KillianTR/Scroll-Parallax-Effect-Carousel/blob/main/assets/screenshot.png?raw=true)
+
